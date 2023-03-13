@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b729ac8da38ccbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Defense Frameworks/Junior Security Analyst Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffbc1ecefa587fc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Defense Frameworks/Pyramid of Pain/Pyramid of Pain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8719e7d3db1c84d6",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8719e7d3db1c84d6",
+  "active": "8438d3721296070f",
   "lastOpenFiles": [
     "Cyber Kill Chain/kill chain overview.png",
     "Cyber Kill Chain/Cyber Kill Chain.md",
