@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "756c5fa73bd03a79",
+    "type": "split",
+    "children": [
+      {
+        "id": "e752a68ad1c108f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b729ac8da38ccbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Defense Frameworks/Junior Security Analyst Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffbc1ecefa587fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Defense Frameworks/Pyramid of Pain/Pyramid of Pain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a18d9fb70cfa467",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e11b62e1c6f75b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8438d3721296070f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8eb8abd9bf5188a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f78db1fdeaba1d0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be6f3ba89ba9793e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7c1f98599a53662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aad5f385be538f15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cyber Defense Frameworks/Pyramid of Pain/Pyramid of Pain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5bd834dd0bb21aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cyber Defense Frameworks/Pyramid of Pain/Pyramid of Pain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64c6d744e51b83ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4c5d914a7f8dafe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cyber Defense Frameworks/Pyramid of Pain/Pyramid of Pain.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8438d3721296070f",
+  "lastOpenFiles": [
+    "Cyber Defense Frameworks/Pyramid of Pain/PoP image.png",
+    "Cyber Defense Frameworks/Junior Security Analyst Intro.md",
+    "Cyber Defense Frameworks/Pyramid of Pain/Pyramid of Pain.md",
+    "Cyber Defense Frameworks/Pyramid of Pain",
+    "Cyber Defense Frameworks/SOC 3 Tier Overview.png"
+  ]
+}
