@@ -40,3 +40,30 @@ These are often used interchangably but need to be clarified for our purposes he
     
 -   **Operational Intel:** Looks into an adversary’s specific motives and intent to perform an attack. Security teams may use this intel to understand the critical assets available in the organisation (people, processes and technologies) that may be targeted.
 
+## CTI Lifecycle
+
+Data churning has a six-step process:
+### 1. Direction
+Defined goals and objectives are a requirement with the following parameters identified:
+-  Information assets and business processes that require defending.
+-   Potential impact to be experienced on losing the assets or through process interruptions.
+-   Sources of data and intel to be used towards protection.
+-   Tools and resources that are required to defend the assets.
+
+### 2. Collection
+Data collection is usually automated where possible to allow for time for triaging other more pressing incidents
+
+### 3. Processing
+Data is extracted, sorted, organised, correlated with appropriate tags and presented visually in a usable and understandable format to the analysts. SIEMs(Security Information Event Management) are valuable tools for achieving this and allow quick parsing of data.
+
+### 4. Analysis
+Deriving insights may involve:
+-   Investigating a potential threat through uncovering indicators and attack patterns.
+-   Defining an action plan to avert an attack and defend the infrastructure.
+-   Strengthening security controls or justifying investment for additional resources.
+
+### 5. Dissemination
+Who gets more detailed info etc.
+
+### 6. Feedback
+Response from stakeholders to inform next steps
