@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "69e749c8d0c85d82",
+        "id": "1e63d280c141d9f1",
         "type": "tabs",
         "children": [
           {
-            "id": "47840e55298e0cb5",
+            "id": "ed121ad7c5c6c7c9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Cyber Defense Frameworks/MITRE/MITRE Engage Matrix.png"
+                "file": "Cyber Threat Intelligence/Introduction to Cyber Threat Intel.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Defense Frameworks/MITRE/MITRE Engage Matrix.png",
+                "file": "Cyber Threat Intelligence/Introduction to Cyber Threat Intel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Defense Frameworks/MITRE/MITRE Engage Matrix.png",
+                "file": "Cyber Threat Intelligence/Introduction to Cyber Threat Intel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Defense Frameworks/MITRE/MITRE Engage Matrix.png"
+                "file": "Cyber Threat Intelligence/Introduction to Cyber Threat Intel.md"
               }
             }
           }
@@ -144,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8438d3721296070f",
+  "active": "ed121ad7c5c6c7c9",
   "lastOpenFiles": [
-    "Cyber Defense Frameworks/MITRE/MITRE.md",
     "Cyber Defense Frameworks/MITRE/MITRE Engage Matrix.png",
+    "Cyber Threat Intelligence/Introduction to Cyber Threat Intel.md",
+    "Cyber Threat Intelligence",
+    "Cyber Defense Frameworks/MITRE/MITRE.md",
     "Cyber Defense Frameworks/MITRE",
     "here.md",
     "Cyber Defense Frameworks/Diamond Model/Diamond Model.md",
