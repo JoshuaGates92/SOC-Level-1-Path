@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfa4cca8467191a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diamond Model/Diamond Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unified Kill Chain/Unified Kill Chain.md",
+                "file": "Diamond Model/Diamond Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unified Kill Chain/Unified Kill Chain.md",
+                "file": "Diamond Model/Diamond Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unified Kill Chain/Unified Kill Chain.md"
+                "file": "Diamond Model/Diamond Model.md"
               }
             }
           }
@@ -146,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8036b1dd0e69acab",
+  "active": "8438d3721296070f",
   "lastOpenFiles": [
-    "Unified Kill Chain/UKC overview.png",
     "Unified Kill Chain/Unified Kill Chain.md",
+    "Diamond Model/Diamond Model.md",
+    "Untitled",
+    "Diamond Model",
+    "Unified Kill Chain/UKC overview.png",
     "Cyber Kill Chain/Cyber Kill Chain.md",
     "Unified Kill Chain",
     "Cyber Kill Chain/kill chain overview.png",
