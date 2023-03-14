@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e752a68ad1c108f5",
+        "id": "d03d6f5494ca7ac7",
         "type": "tabs",
         "children": [
           {
-            "id": "8719e7d3db1c84d6",
+            "id": "8036b1dd0e69acab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Kill Chain/Cyber Kill Chain.md",
+                "file": "Unified Kill Chain/Unified Kill Chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Kill Chain/Cyber Kill Chain.md",
+                "file": "Unified Kill Chain/Unified Kill Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Kill Chain/Cyber Kill Chain.md",
+                "file": "Unified Kill Chain/Unified Kill Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Kill Chain/Cyber Kill Chain.md"
+                "file": "Unified Kill Chain/Unified Kill Chain.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8438d3721296070f",
+  "active": "8036b1dd0e69acab",
   "lastOpenFiles": [
-    "Cyber Kill Chain/kill chain overview.png",
+    "Unified Kill Chain/UKC overview.png",
+    "Unified Kill Chain/Unified Kill Chain.md",
     "Cyber Kill Chain/Cyber Kill Chain.md",
+    "Unified Kill Chain",
+    "Cyber Kill Chain/kill chain overview.png",
     "Cyber Defense Frameworks/Pyramid of Pain/Pyramid of Pain.md",
     "Cyber Kill Chain",
     "Cyber Defense Frameworks/Pyramid of Pain/PoP image.png",
