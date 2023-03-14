@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threat Intelligence Tools.md",
+                "file": "Cyber Threat Intelligence/Threat Intelligence Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Threat Intelligence Tools.md",
+                "file": "Cyber Threat Intelligence/Threat Intelligence Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Threat Intelligence Tools.md",
+                "file": "Cyber Threat Intelligence/Threat Intelligence Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Threat Intelligence Tools.md"
+                "file": "Cyber Threat Intelligence/Threat Intelligence Tools.md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03cb64ae1e399975",
+  "active": "8438d3721296070f",
   "lastOpenFiles": [
     "Cyber Threat Intelligence/Introduction to Cyber Threat Intel.md",
-    "Threat Intelligence Tools.md",
+    "Cyber Threat Intelligence/Threat Intelligence Tools.md",
     "README.md",
     "Cyber Defense Frameworks/MITRE/MITRE Engage Matrix.png",
     "Cyber Threat Intelligence",
