@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d03d6f5494ca7ac7",
+        "id": "69e749c8d0c85d82",
         "type": "tabs",
         "children": [
           {
-            "id": "8036b1dd0e69acab",
+            "id": "47840e55298e0cb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Unified Kill Chain/Unified Kill Chain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfa4cca8467191a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diamond Model/Diamond Model.md",
-                "mode": "source",
-                "source": false
+                "file": "Cyber Defense Frameworks/MITRE/MITRE Engage Matrix.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diamond Model/Diamond Model.md",
+                "file": "Cyber Defense Frameworks/MITRE/MITRE Engage Matrix.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diamond Model/Diamond Model.md",
+                "file": "Cyber Defense Frameworks/MITRE/MITRE Engage Matrix.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diamond Model/Diamond Model.md"
+                "file": "Cyber Defense Frameworks/MITRE/MITRE Engage Matrix.png"
               }
             }
           }
@@ -161,16 +146,19 @@
   },
   "active": "8438d3721296070f",
   "lastOpenFiles": [
-    "Unified Kill Chain/Unified Kill Chain.md",
-    "Diamond Model/Diamond Model.md",
-    "Untitled",
-    "Diamond Model",
-    "Unified Kill Chain/UKC overview.png",
-    "Cyber Kill Chain/Cyber Kill Chain.md",
-    "Unified Kill Chain",
-    "Cyber Kill Chain/kill chain overview.png",
+    "Cyber Defense Frameworks/MITRE/MITRE.md",
+    "Cyber Defense Frameworks/MITRE/MITRE Engage Matrix.png",
+    "Cyber Defense Frameworks/MITRE",
+    "here.md",
+    "Cyber Defense Frameworks/Diamond Model/Diamond Model.md",
+    "Cyber Defense Frameworks/Unified Kill Chain/Unified Kill Chain.md",
+    "Cyber Defense Frameworks/Diamond Model",
+    "Cyber Defense Frameworks/Unified Kill Chain/UKC overview.png",
+    "Cyber Defense Frameworks/Cyber Kill Chain/Cyber Kill Chain.md",
+    "Cyber Defense Frameworks/Unified Kill Chain",
+    "Cyber Defense Frameworks/Cyber Kill Chain/kill chain overview.png",
     "Cyber Defense Frameworks/Pyramid of Pain/Pyramid of Pain.md",
-    "Cyber Kill Chain",
+    "Cyber Defense Frameworks/Cyber Kill Chain",
     "Cyber Defense Frameworks/Pyramid of Pain/PoP image.png",
     "Cyber Defense Frameworks/Junior Security Analyst Intro.md",
     "Cyber Defense Frameworks/Pyramid of Pain",
