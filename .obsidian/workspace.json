@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2955ca463b3d8427",
+            "id": "2d1e352c21719bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Threat Intelligence/YARA/YARA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3146111d3a1271d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCTI/OpenCTI.md",
+                "file": "MISP - Malware Information Sharing Platform.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenCTI/OpenCTI.md",
+                "file": "MISP - Malware Information Sharing Platform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenCTI/OpenCTI.md",
+                "file": "MISP - Malware Information Sharing Platform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenCTI/OpenCTI.md"
+                "file": "MISP - Malware Information Sharing Platform.md"
               }
             }
           }
@@ -159,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3146111d3a1271d",
+  "active": "2d1e352c21719bbe",
   "lastOpenFiles": [
-    "OpenCTI/OpenCTI Dashboard.png",
-    "OpenCTI/OpenCTI.md",
+    "Cyber Threat Intelligence/OpenCTI/OpenCTI.md",
+    "MISP - Malware Information Sharing Platform.md",
+    "Cyber Threat Intelligence/MISP",
+    "Cyber Threat Intelligence/OpenCTI/OpenCTI Dashboard.png",
     "Cyber Threat Intelligence/YARA/YARA.md",
-    "OpenCTI",
+    "Cyber Threat Intelligence/OpenCTI",
     "Cyber Threat Intelligence/Threat Intelligence Tools.md",
     "Cyber Threat Intelligence/YARA",
     "Cyber Threat Intelligence/Introduction to Cyber Threat Intel.md",
