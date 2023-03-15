@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e07b39e247f4442",
+        "id": "bb9570e321961b94",
         "type": "tabs",
         "children": [
           {
-            "id": "2d1e352c21719bbe",
+            "id": "f82235cf885985c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md",
+                "file": "Network Security and Traffic Analysis/Traffic Analysis Essentials.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md",
+                "file": "Network Security and Traffic Analysis/Traffic Analysis Essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md",
+                "file": "Network Security and Traffic Analysis/Traffic Analysis Essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md"
+                "file": "Network Security and Traffic Analysis/Traffic Analysis Essentials.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "8438d3721296070f",
   "lastOpenFiles": [
-    "Cyber Threat Intelligence/OpenCTI/OpenCTI.md",
     "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md",
+    "Network Security and Traffic Analysis/Traffic Analysis Essentials.md",
+    "Network Security and Traffic Analysis",
+    "Cyber Threat Intelligence/OpenCTI/OpenCTI.md",
     "Cyber Threat Intelligence/MISP",
     "Cyber Threat Intelligence/OpenCTI/OpenCTI Dashboard.png",
     "Cyber Threat Intelligence/YARA/YARA.md",
