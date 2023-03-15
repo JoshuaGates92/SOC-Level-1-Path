@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3146111d3a1271d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenCTI/OpenCTI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Threat Intelligence/YARA/YARA.md",
+                "file": "OpenCTI/OpenCTI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Threat Intelligence/YARA/YARA.md",
+                "file": "OpenCTI/OpenCTI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Threat Intelligence/YARA/YARA.md"
+                "file": "OpenCTI/OpenCTI.md"
               }
             }
           }
@@ -146,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8438d3721296070f",
+  "active": "b3146111d3a1271d",
   "lastOpenFiles": [
-    "Cyber Threat Intelligence/Threat Intelligence Tools.md",
+    "OpenCTI/OpenCTI Dashboard.png",
+    "OpenCTI/OpenCTI.md",
     "Cyber Threat Intelligence/YARA/YARA.md",
+    "OpenCTI",
+    "Cyber Threat Intelligence/Threat Intelligence Tools.md",
     "Cyber Threat Intelligence/YARA",
     "Cyber Threat Intelligence/Introduction to Cyber Threat Intel.md",
     "README.md",
