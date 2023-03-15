@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MISP - Malware Information Sharing Platform.md",
+                "file": "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MISP - Malware Information Sharing Platform.md",
+                "file": "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MISP - Malware Information Sharing Platform.md",
+                "file": "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MISP - Malware Information Sharing Platform.md"
+                "file": "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d1e352c21719bbe",
+  "active": "8438d3721296070f",
   "lastOpenFiles": [
     "Cyber Threat Intelligence/OpenCTI/OpenCTI.md",
-    "MISP - Malware Information Sharing Platform.md",
+    "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md",
     "Cyber Threat Intelligence/MISP",
     "Cyber Threat Intelligence/OpenCTI/OpenCTI Dashboard.png",
     "Cyber Threat Intelligence/YARA/YARA.md",
