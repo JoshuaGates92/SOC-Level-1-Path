@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1e63d280c141d9f1",
+        "id": "4e07b39e247f4442",
         "type": "tabs",
         "children": [
           {
-            "id": "ed121ad7c5c6c7c9",
+            "id": "2955ca463b3d8427",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Threat Intelligence/Introduction to Cyber Threat Intel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03cb64ae1e399975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Threat Intelligence/Threat Intelligence Tools.md",
+                "file": "Cyber Threat Intelligence/YARA/YARA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Threat Intelligence/Threat Intelligence Tools.md",
+                "file": "Cyber Threat Intelligence/YARA/YARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Threat Intelligence/Threat Intelligence Tools.md",
+                "file": "Cyber Threat Intelligence/YARA/YARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Threat Intelligence/Threat Intelligence Tools.md"
+                "file": "Cyber Threat Intelligence/YARA/YARA.md"
               }
             }
           }
@@ -161,8 +148,10 @@
   },
   "active": "8438d3721296070f",
   "lastOpenFiles": [
-    "Cyber Threat Intelligence/Introduction to Cyber Threat Intel.md",
     "Cyber Threat Intelligence/Threat Intelligence Tools.md",
+    "Cyber Threat Intelligence/YARA/YARA.md",
+    "Cyber Threat Intelligence/YARA",
+    "Cyber Threat Intelligence/Introduction to Cyber Threat Intel.md",
     "README.md",
     "Cyber Defense Frameworks/MITRE/MITRE Engage Matrix.png",
     "Cyber Threat Intelligence",
