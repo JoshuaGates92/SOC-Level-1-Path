@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb9570e321961b94",
+        "id": "57a8d0583c8a47d7",
         "type": "tabs",
         "children": [
           {
-            "id": "f82235cf885985c3",
+            "id": "7c2ee64a340b53af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Security and Traffic Analysis/Traffic Analysis Essentials.md",
+                "file": "SNORT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Security and Traffic Analysis/Traffic Analysis Essentials.md",
+                "file": "SNORT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Security and Traffic Analysis/Traffic Analysis Essentials.md",
+                "file": "SNORT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Security and Traffic Analysis/Traffic Analysis Essentials.md"
+                "file": "SNORT.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8438d3721296070f",
+  "active": "7c2ee64a340b53af",
   "lastOpenFiles": [
-    "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md",
+    "SNORT.md",
     "Network Security and Traffic Analysis/Traffic Analysis Essentials.md",
+    "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md",
     "Network Security and Traffic Analysis",
     "Cyber Threat Intelligence/OpenCTI/OpenCTI.md",
     "Cyber Threat Intelligence/MISP",
