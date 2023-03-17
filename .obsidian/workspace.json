@@ -11,11 +11,9 @@
             "id": "7c2ee64a340b53af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SNORT.md",
-                "mode": "source",
-                "source": false
+                "file": "Network Security and Traffic Analysis/SNORT/SNORT Rule anatomy.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SNORT.md",
+                "file": "Network Security and Traffic Analysis/SNORT/SNORT Rule anatomy.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SNORT.md",
+                "file": "Network Security and Traffic Analysis/SNORT/SNORT Rule anatomy.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SNORT.md"
+                "file": "Network Security and Traffic Analysis/SNORT/SNORT Rule anatomy.png"
               }
             }
           }
@@ -146,9 +144,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c2ee64a340b53af",
+  "active": "8438d3721296070f",
   "lastOpenFiles": [
-    "SNORT.md",
+    "Network Security and Traffic Analysis/SNORT/Pasted image 20230316200657 1.png",
+    "Network Security and Traffic Analysis/SNORT/SNORT Rule anatomy.png",
+    "Network Security and Traffic Analysis/SNORT/SNORT.md",
+    "Network Security and Traffic Analysis/SNORT",
     "Network Security and Traffic Analysis/Traffic Analysis Essentials.md",
     "Cyber Threat Intelligence/MISP - Malware Information Sharing Platform.md",
     "Network Security and Traffic Analysis",
@@ -177,7 +178,6 @@
     "Cyber Defense Frameworks/Cyber Kill Chain",
     "Cyber Defense Frameworks/Pyramid of Pain/PoP image.png",
     "Cyber Defense Frameworks/Junior Security Analyst Intro.md",
-    "Cyber Defense Frameworks/Pyramid of Pain",
     "Cyber Defense Frameworks/Pyramid of Pain/SOC 3 Tier Overview.png"
   ]
 }
